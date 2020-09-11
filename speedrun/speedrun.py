@@ -13,6 +13,8 @@ FTP_PW = "7eQnl44pFN+W#8"
 advancements = []
 ftp = FTP("147.135.97.128")
 speedrun_name = None
+world_name = None
+start_time = None
 output_file = None
 output_filename = None
 
@@ -25,11 +27,14 @@ ID_MAP = {
 
 
 def main():
-    global speedrun_name, output_file, output_filename
+    global speedrun_name, output_file, output_filename, start_time, world_name
 
     ftp.login(user=FTP_USER, passwd=FTP_PW)
     world_name = str(sys.argv[1])
-    start_time = str(sys.argv[2])
+    if len(sys.argv) <= 2:
+        start_time = get_start_time()
+    else:
+        start_time = str(sys.argv[2])
 
     # Get starting timestamp
     start_timestamp = datetime.datetime.strptime(
@@ -275,31 +280,53 @@ def get_key(d, val):
             return key
 
 
-# def get_player_mapping(start_time, name):
-#     ftp.cwd("logs")
-#     log_filenames = ftp.nlst()
-#     regex_match = start_time[:10]
-#     matched_log_filenames = [f for f in log_filenames if re.match(regex_match, f)]
-#     print(matched_log_filenames)
+def get_start_time():
+    global world_name, start_time
 
-#     log_string_list = []
-#     for log_filename in matched_log_filenames:
-#         localfile = open("%s/%s" % (name, log_filename), "wb")
-#         ftp.retrbinary("RETR " + log_filename, localfile.write)
-#         localfile.close()
+    if not os.path.exists("logs"):
+        os.makedirs("logs")
 
-#         localfile = gzip.open("%s/%s" % (name, log_filename), "rb")
-#         log_string = str(localfile.read())
-#         log_string_list = log_string_list + log_string.split("\\n")
+    ftp.cwd("logs")
+    log_filenames = ftp.nlst()
 
-#     if log_string_list
+    log_string_list = []
+    world_start_date = None
+    for log_filename in log_filenames:
+        localfile = open("logs/%s" % log_filename, "wb")
+        ftp.retrbinary("RETR " + log_filename, localfile.write)
+        localfile.close()
 
-#     match_string_list = [
-#         message
-#         for message in log_string_list
-#         if re.match(".*Preparing .*" + name, message)
-#     ]
-#     print(match_string_list)
+        if log_filename == "latest.log":
+            localfile = open("logs/%s" % log_filename, "rb")
+            log_string = str(localfile.read())
+            log_string_list = log_string.split("\\n")
+        else:
+            localfile = gzip.open("logs/%s" % log_filename, "rb")
+            log_string = str(localfile.read())
+            log_string_list = log_string.split("\\n")
+
+        world_start_message = [
+            message
+            for message in log_string_list
+            if re.match('.*Preparing.*%s"' % world_name, message)
+        ]
+        if len(world_start_message) > 0:
+            if log_filename == "latest.log":
+                world_start_date = datetime.date.today()
+            else:
+                world_start_date = re.findall("\d\d\d\d-\d\d-\d\d", log_filename)[0]
+            break
+
+    time_set_message = [
+        message
+        for message in log_string_list
+        if re.match(".*Set the time to 1000.*", message)
+    ]
+    time_set_message = time_set_message[0]
+    start_time = re.findall("\d+:\d+:\d+", time_set_message)[0]
+    start_date_time = "%s %s" % (world_start_date, start_time)
+    ftp.cwd("../")
+    return start_date_time
 
 
 if __name__ == "__main__":
