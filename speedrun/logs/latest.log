@@ -1,325 +1,268 @@
-[23:06:39] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
-[23:06:40] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[23:06:40] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[23:06:40] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[23:06:40] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[23:06:40] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[23:06:40] [main/INFO]: Reloading ResourceManager: Default
-[23:06:41] [Worker-Main-12/INFO]: Loaded 7 recipes
-[23:06:42] [Worker-Main-12/INFO]: Loaded 927 advancements
-[23:06:43] [Server thread/INFO]: Starting minecraft server version 1.16.1
-[23:06:43] [Server thread/INFO]: Loading properties
-[23:06:43] [Server thread/INFO]: Default game type: SURVIVAL
-[23:06:43] [Server thread/INFO]: Generating keypair
-[23:06:43] [Server thread/INFO]: Starting Minecraft server on 147.135.97.128:25566
-[23:06:43] [Server thread/INFO]: Using epoll channel type
-[23:06:43] [Server thread/INFO]: Preparing level "wr_091220_4"
-[23:06:52] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[23:06:52] [Worker-Main-10/INFO]: Preparing spawn area: 0%
-[23:06:52] [Worker-Main-13/INFO]: Preparing spawn area: 0%
-[23:06:53] [Worker-Main-9/INFO]: Preparing spawn area: 0%
-[23:06:53] [Worker-Main-14/INFO]: Preparing spawn area: 0%
-[23:06:54] [Worker-Main-8/INFO]: Preparing spawn area: 0%
-[23:06:54] [Worker-Main-12/INFO]: Preparing spawn area: 2%
-[23:06:55] [Worker-Main-9/INFO]: Preparing spawn area: 2%
-[23:06:55] [Worker-Main-11/INFO]: Preparing spawn area: 4%
-[23:06:56] [Worker-Main-11/INFO]: Preparing spawn area: 4%
-[23:06:56] [Worker-Main-10/INFO]: Preparing spawn area: 9%
-[23:06:57] [Worker-Main-9/INFO]: Preparing spawn area: 9%
-[23:06:57] [Worker-Main-14/INFO]: Preparing spawn area: 9%
-[23:06:58] [Worker-Main-13/INFO]: Preparing spawn area: 9%
-[23:06:58] [Worker-Main-12/INFO]: Preparing spawn area: 9%
-[23:06:59] [Worker-Main-11/INFO]: Preparing spawn area: 20%
-[23:06:59] [Worker-Main-13/INFO]: Preparing spawn area: 20%
-[23:07:00] [Worker-Main-9/INFO]: Preparing spawn area: 20%
-[23:07:00] [Worker-Main-11/INFO]: Preparing spawn area: 24%
-[23:07:00] [User Authenticator #1/INFO]: UUID of player ByHellRaiseR is 3e12019a-951e-4488-83be-f089e542c616
-[23:07:01] [Worker-Main-14/INFO]: Preparing spawn area: 24%
-[23:07:01] [Worker-Main-9/INFO]: Preparing spawn area: 29%
-[23:07:02] [Worker-Main-14/INFO]: Preparing spawn area: 32%
-[23:07:02] [Worker-Main-8/INFO]: Preparing spawn area: 37%
-[23:07:04] [Worker-Main-12/INFO]: Preparing spawn area: 46%
-[23:07:04] [Worker-Main-12/INFO]: Preparing spawn area: 46%
-[23:07:04] [Worker-Main-12/INFO]: Preparing spawn area: 46%
-[23:07:04] [Worker-Main-10/INFO]: Preparing spawn area: 69%
-[23:07:05] [Worker-Main-9/INFO]: Preparing spawn area: 76%
-[23:07:05] [Worker-Main-9/INFO]: Preparing spawn area: 80%
-[23:07:06] [Worker-Main-12/INFO]: Preparing spawn area: 92%
-[23:07:06] [Worker-Main-8/INFO]: Preparing spawn area: 92%
-[23:07:06] [Server thread/INFO]: Time elapsed: 14641 ms
-[23:07:06] [Server thread/INFO]: Done (22.791s)! For help, type "help"
-[23:07:06] [Server thread/INFO]: ByHellRaiseR[/73.223.250.248:59406] logged in with entity id 182 at (113.5, 63.0, -238.5)
-[23:07:06] [Server thread/INFO]: ByHellRaiseR joined the game
-[23:07:18] [User Authenticator #2/INFO]: UUID of player junsus is 00cefaab-ee76-49ca-91ed-3df21f8913f3
-[23:07:18] [Server thread/INFO]: junsus[/67.180.178.21:56116] logged in with entity id 341 at (115.5, 63.0, -243.5)
-[23:07:18] [Server thread/INFO]: junsus joined the game
-[23:07:19] [Server thread/INFO]: [ByHellRaiseR: Set the time to 1000]
-[23:07:37] [User Authenticator #3/INFO]: UUID of player GChosen1 is 4c23bad0-4ded-4cd6-b870-58ccb674cbb8
-[23:07:37] [Server thread/INFO]: GChosen1[/24.5.33.60:54644] logged in with entity id 372 at (102.5, 63.0, -243.5)
-[23:07:37] [Server thread/INFO]: GChosen1 joined the game
-[23:07:38] [Server thread/INFO]: There are 3 of a max of 36 players online: ByHellRaiseR, junsus, GChosen1
-[23:08:04] [Server thread/INFO]: junsus has made the advancement [Stone Age]
-[23:08:05] [Server thread/INFO]: ByHellRaiseR has made the advancement [Stone Age]
-[23:08:10] [Server thread/INFO]: There are 3 of a max of 36 players online: ByHellRaiseR, junsus, GChosen1
-[23:08:12] [Server thread/INFO]: ByHellRaiseR has made the advancement [Getting an Upgrade]
-[23:08:13] [Server thread/INFO]: junsus has made the advancement [Getting an Upgrade]
-[23:08:39] [Server thread/INFO]: GChosen1 has made the advancement [Stone Age]
-[23:08:42] [Server thread/INFO]: There are 3 of a max of 36 players online: ByHellRaiseR, junsus, GChosen1
-[23:08:56] [Server thread/INFO]: GChosen1 has made the advancement [Getting an Upgrade]
-[23:09:13] [Server thread/INFO]: ByHellRaiseR has made the advancement [Acquire Hardware]
-[23:09:13] [Server thread/INFO]: There are 3 of a max of 36 players online: ByHellRaiseR, junsus, GChosen1
-[23:09:45] [Server thread/INFO]: There are 3 of a max of 36 players online: ByHellRaiseR, junsus, GChosen1
-[23:10:17] [Server thread/INFO]: There are 3 of a max of 36 players online: ByHellRaiseR, junsus, GChosen1
-[23:10:48] [Server thread/INFO]: GChosen1 has made the advancement [What a Deal!]
-[23:10:49] [Server thread/INFO]: There are 3 of a max of 36 players online: ByHellRaiseR, junsus, GChosen1
-[23:11:21] [Server thread/INFO]: There are 3 of a max of 36 players online: ByHellRaiseR, junsus, GChosen1
-[23:11:22] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=663, y=65, z=-132} fu{x=663, y=63, z=-133}
-[23:11:52] [Server thread/INFO]: There are 3 of a max of 36 players online: ByHellRaiseR, junsus, GChosen1
-[23:12:09] [Server thread/WARN]: junsus moved too quickly! 9.781631266946519,1.0,-2.832633431104796
-[23:12:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2247ms or 44 ticks behind
-[23:12:20] [Server thread/INFO]: <GChosen1> lava 195, -480
-[23:12:24] [Server thread/INFO]: There are 3 of a max of 36 players online: ByHellRaiseR, junsus, GChosen1
-[23:12:56] [Server thread/INFO]: There are 3 of a max of 36 players online: ByHellRaiseR, junsus, GChosen1
-[23:13:28] [Server thread/INFO]: There are 3 of a max of 36 players online: ByHellRaiseR, junsus, GChosen1
-[23:14:00] [Server thread/INFO]: There are 3 of a max of 36 players online: ByHellRaiseR, junsus, GChosen1
-[23:14:32] [Server thread/INFO]: There are 3 of a max of 36 players online: ByHellRaiseR, junsus, GChosen1
-[23:14:57] [Server thread/INFO]: junsus has made the advancement [Acquire Hardware]
-[23:15:03] [Server thread/INFO]: There are 3 of a max of 36 players online: ByHellRaiseR, junsus, GChosen1
-[23:15:06] [Server thread/INFO]: junsus has made the advancement [Isn't It Iron Pick]
-[23:15:35] [Server thread/INFO]: There are 3 of a max of 36 players online: ByHellRaiseR, junsus, GChosen1
-[23:15:53] [Server thread/INFO]: ByHellRaiseR has made the advancement [Hot Stuff]
-[23:16:07] [Server thread/INFO]: There are 3 of a max of 36 players online: ByHellRaiseR, junsus, GChosen1
-[23:16:11] [Server thread/INFO]: ByHellRaiseR has made the advancement [We Need to Go Deeper]
-[23:16:36] [Server thread/INFO]: Saving is already turned on
-[23:16:36] [Server thread/INFO]: Saving the game (this may take a moment!)
-[23:16:38] [Server thread/INFO]: Saved the game
-[23:16:39] [Server thread/INFO]: There are 3 of a max of 36 players online: ByHellRaiseR, junsus, GChosen1
-[23:17:02] [Server thread/INFO]: junsus has made the advancement [We Need to Go Deeper]
-[23:17:11] [Server thread/INFO]: There are 3 of a max of 36 players online: ByHellRaiseR, junsus, GChosen1
-[23:17:11] [Server thread/INFO]: GChosen1 has made the advancement [We Need to Go Deeper]
-[23:17:42] [Server thread/INFO]: There are 3 of a max of 36 players online: ByHellRaiseR, junsus, GChosen1
-[23:18:14] [Server thread/INFO]: There are 3 of a max of 36 players online: ByHellRaiseR, junsus, GChosen1
-[23:18:27] [Server thread/INFO]: junsus has made the advancement [Not Today, Thank You]
-[23:18:32] [Server thread/INFO]: junsus has made the advancement [Monster Hunter]
-[23:18:46] [Server thread/INFO]: There are 3 of a max of 36 players online: ByHellRaiseR, junsus, GChosen1
-[23:18:56] [Server thread/INFO]: <ByHellRaiseR> fortress: 114 111
-[23:19:06] [Server thread/INFO]: ByHellRaiseR has made the advancement [A Terrible Fortress]
-[23:19:18] [Server thread/INFO]: There are 3 of a max of 36 players online: ByHellRaiseR, junsus, GChosen1
-[23:19:50] [Server thread/INFO]: There are 3 of a max of 36 players online: ByHellRaiseR, junsus, GChosen1
-[23:19:56] [Server thread/INFO]: ByHellRaiseR has made the advancement [Not Today, Thank You]
-[23:20:00] [Server thread/INFO]: ByHellRaiseR has made the advancement [Monster Hunter]
-[23:20:01] [Server thread/INFO]: ByHellRaiseR has made the advancement [Into Fire]
-[23:20:21] [Server thread/INFO]: There are 3 of a max of 36 players online: ByHellRaiseR, junsus, GChosen1
-[23:20:28] [Server thread/INFO]: GChosen1 burned to death
-[23:20:31] [Server thread/INFO]: junsus has made the advancement [Oh Shiny]
-[23:20:53] [Server thread/INFO]: There are 3 of a max of 36 players online: ByHellRaiseR, junsus, GChosen1
-[23:21:25] [Server thread/INFO]: There are 3 of a max of 36 players online: ByHellRaiseR, junsus, GChosen1
-[23:21:57] [Server thread/INFO]: There are 3 of a max of 36 players online: ByHellRaiseR, junsus, GChosen1
-[23:22:17] [Server thread/INFO]: GChosen1 has made the advancement [Oh Shiny]
-[23:22:29] [Server thread/INFO]: There are 3 of a max of 36 players online: ByHellRaiseR, junsus, GChosen1
-[23:22:47] [Server thread/INFO]: junsus has made the advancement [Who is Cutting Onions?]
-[23:23:00] [Server thread/INFO]: There are 3 of a max of 36 players online: ByHellRaiseR, junsus, GChosen1
-[23:23:17] [Server thread/INFO]: GChosen1 has made the advancement [Who is Cutting Onions?]
-[23:23:32] [Server thread/INFO]: There are 3 of a max of 36 players online: ByHellRaiseR, junsus, GChosen1
-[23:24:04] [Server thread/INFO]: There are 3 of a max of 36 players online: ByHellRaiseR, junsus, GChosen1
-[23:24:19] [Server thread/INFO]: junsus has made the advancement [Ice Bucket Challenge]
-[23:24:36] [Server thread/INFO]: There are 3 of a max of 36 players online: ByHellRaiseR, junsus, GChosen1
-[23:24:48] [Server thread/INFO]: ByHellRaiseR has made the advancement [Diamonds!]
-[23:25:08] [Server thread/INFO]: There are 3 of a max of 36 players online: ByHellRaiseR, junsus, GChosen1
-[23:25:26] [Server thread/INFO]: GChosen1 has made the advancement [Monster Hunter]
-[23:25:34] [Server thread/INFO]: GChosen1 has made the advancement [Ice Bucket Challenge]
-[23:25:39] [Server thread/INFO]: There are 3 of a max of 36 players online: ByHellRaiseR, junsus, GChosen1
-[23:26:11] [Server thread/INFO]: There are 3 of a max of 36 players online: ByHellRaiseR, junsus, GChosen1
-[23:26:38] [Server thread/INFO]: Saving is already turned on
-[23:26:38] [Server thread/INFO]: Saving the game (this may take a moment!)
-[23:26:39] [Server thread/INFO]: Saved the game
-[23:26:43] [Server thread/INFO]: There are 3 of a max of 36 players online: ByHellRaiseR, junsus, GChosen1
-[23:26:59] [Server thread/INFO]: <GChosen1> portal 20, -70
-[23:27:15] [Server thread/INFO]: There are 3 of a max of 36 players online: ByHellRaiseR, junsus, GChosen1
-[23:27:46] [Server thread/INFO]: junsus fell from a high place
-[23:27:47] [Server thread/INFO]: There are 3 of a max of 36 players online: ByHellRaiseR, junsus, GChosen1
-[23:28:18] [Server thread/INFO]: There are 3 of a max of 36 players online: ByHellRaiseR, GChosen1, junsus
-[23:28:50] [Server thread/INFO]: There are 3 of a max of 36 players online: ByHellRaiseR, GChosen1, junsus
-[23:29:22] [Server thread/INFO]: There are 3 of a max of 36 players online: ByHellRaiseR, GChosen1, junsus
-[23:29:54] [Server thread/INFO]: There are 3 of a max of 36 players online: ByHellRaiseR, GChosen1, junsus
-[23:30:26] [Server thread/INFO]: There are 3 of a max of 36 players online: ByHellRaiseR, GChosen1, junsus
-[23:30:57] [Server thread/INFO]: There are 3 of a max of 36 players online: ByHellRaiseR, GChosen1, junsus
-[23:31:29] [Server thread/INFO]: There are 3 of a max of 36 players online: ByHellRaiseR, GChosen1, junsus
-[23:32:01] [Server thread/INFO]: There are 3 of a max of 36 players online: ByHellRaiseR, GChosen1, junsus
-[23:32:33] [Server thread/INFO]: There are 3 of a max of 36 players online: ByHellRaiseR, GChosen1, junsus
-[23:33:05] [Server thread/INFO]: There are 3 of a max of 36 players online: ByHellRaiseR, GChosen1, junsus
-[23:33:36] [Server thread/INFO]: There are 3 of a max of 36 players online: ByHellRaiseR, GChosen1, junsus
-[23:34:08] [Server thread/INFO]: There are 3 of a max of 36 players online: ByHellRaiseR, GChosen1, junsus
-[23:34:40] [Server thread/INFO]: There are 3 of a max of 36 players online: ByHellRaiseR, GChosen1, junsus
-[23:35:12] [Server thread/INFO]: There are 3 of a max of 36 players online: ByHellRaiseR, GChosen1, junsus
-[23:35:44] [Server thread/INFO]: There are 3 of a max of 36 players online: ByHellRaiseR, GChosen1, junsus
-[23:36:15] [Server thread/INFO]: There are 3 of a max of 36 players online: ByHellRaiseR, GChosen1, junsus
-[23:36:40] [Server thread/INFO]: Saving is already turned on
-[23:36:40] [Server thread/INFO]: Saving the game (this may take a moment!)
-[23:36:42] [Server thread/INFO]: Saved the game
-[23:36:42] [Server thread/WARN]: Boat (vehicle of junsus) moved too quickly! -7.699503731181267,0.0,-6.990702424423034
-[23:36:42] [Server thread/WARN]: Boat (vehicle of junsus) moved too quickly! -7.995277096904715,0.0,-7.25999023862596
-[23:36:42] [Server thread/WARN]: Boat (vehicle of junsus) moved too quickly! -8.291041528551204,0.0,-7.529288252884271
-[23:36:42] [Server thread/WARN]: Boat (vehicle of junsus) moved too quickly! -8.586797919528749,0.0,-7.7985954471919285
-[23:36:42] [Server thread/WARN]: Boat (vehicle of junsus) moved too quickly! -8.882544492278157,0.0,-8.067913738490006
-[23:36:42] [Server thread/WARN]: Boat (vehicle of junsus) moved too quickly! -9.178282228622493,0.0,-8.337242017078552
-[23:36:42] [Server thread/WARN]: Boat (vehicle of junsus) moved too quickly! -9.47401201220248,0.0,-8.606579284229156
-[23:36:42] [Server thread/WARN]: Boat (vehicle of junsus) moved too quickly! -9.769734638294722,0.0,-8.875924641084566
-[23:36:42] [Server thread/WARN]: Boat (vehicle of junsus) moved too quickly! -10.065450822648245,0.0,-9.145277278674712
-[23:36:42] [Server thread/WARN]: Boat (vehicle of junsus) moved too quickly! -10.361161209437,0.0,-9.414636468925892
-[23:36:42] [Server thread/WARN]: ByHellRaiseR moved too quickly! 5.445702400997561,-8.466807736365027,0.24249794030470184
-[23:36:42] [Server thread/WARN]: Boat (vehicle of junsus) moved too quickly! -10.656866378417703,0.0,-9.684001556571275
-[23:36:42] [Server thread/WARN]: Boat (vehicle of junsus) moved too quickly! -10.952566851371103,0.0,-9.953371951872214
-[23:36:42] [Server thread/WARN]: Boat (vehicle of junsus) moved too quickly! -11.248263097900235,0.0,-10.222747124062153
-[23:36:42] [Server thread/WARN]: Boat (vehicle of junsus) moved too quickly! -11.543955540647517,0.0,-10.492126595452646
-[23:36:42] [Server thread/WARN]: Boat (vehicle of junsus) moved too quickly! -11.839644559991257,0.0,-10.761509936123275
-[23:36:42] [Server thread/WARN]: Boat (vehicle of junsus) moved too quickly! -12.135330498271856,0.0,-11.030896759146344
-[23:36:42] [Server thread/WARN]: Boat (vehicle of junsus) moved too quickly! -12.431013663595763,0.0,-11.300286716285882
-[23:36:42] [Server thread/WARN]: Boat (vehicle of junsus) moved too quickly! -12.726694333258592,0.0,-11.569679494130469
-[23:36:42] [Server thread/WARN]: Boat (vehicle of junsus) moved too quickly! -13.022372756826599,0.0,-11.839074810609418
-[23:36:42] [Server thread/WARN]: Boat (vehicle of junsus) moved too quickly! -13.318049158909389,0.0,-12.108472411859566
-[23:36:42] [Server thread/WARN]: Boat (vehicle of junsus) moved too quickly! -13.613723741655463,0.0,-12.377872069403566
-[23:36:42] [Server thread/WARN]: Boat (vehicle of junsus) moved too quickly! -13.909396686998548,0.0,-12.64727357761194
-[23:36:42] [Server thread/WARN]: Boat (vehicle of junsus) moved too quickly! -14.205068158678955,0.0,-12.916676751417981
-[23:36:42] [Server thread/WARN]: Boat (vehicle of junsus) moved too quickly! -14.50073830406302,0.0,-13.186081424262284
-[23:36:42] [Server thread/WARN]: Boat (vehicle of junsus) moved too quickly! -14.79640725578031,0.0,-13.455487446241023
-[23:36:42] [Server thread/WARN]: Boat (vehicle of junsus) moved too quickly! -15.092075133197682,0.0,-13.724894682440208
-[23:36:42] [Server thread/WARN]: Boat (vehicle of junsus) moved too quickly! -15.387742043744993,0.0,-13.994303011438205
-[23:36:42] [Server thread/WARN]: Boat (vehicle of junsus) moved too quickly! -15.683408084109374,0.0,-14.263712323954678
-[23:36:42] [Server thread/WARN]: Boat (vehicle of junsus) moved too quickly! -15.979073341309117,0.0,-14.533122521638234
-[23:36:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2625ms or 52 ticks behind
-[23:36:43] [Server thread/WARN]: Boat (vehicle of junsus) moved too quickly! -8.871017454955222,0.0,-8.081107572357269
-[23:36:47] [Server thread/INFO]: There are 3 of a max of 36 players online: ByHellRaiseR, GChosen1, junsus
-[23:37:19] [Server thread/INFO]: There are 3 of a max of 36 players online: ByHellRaiseR, GChosen1, junsus
-[23:37:51] [Server thread/INFO]: There are 3 of a max of 36 players online: ByHellRaiseR, GChosen1, junsus
-[23:38:23] [Server thread/INFO]: There are 3 of a max of 36 players online: ByHellRaiseR, GChosen1, junsus
-[23:38:54] [Server thread/INFO]: There are 3 of a max of 36 players online: ByHellRaiseR, GChosen1, junsus
-[23:39:26] [Server thread/INFO]: There are 3 of a max of 36 players online: ByHellRaiseR, GChosen1, junsus
-[23:39:39] [Server thread/INFO]: junsus has made the advancement [Sweet Dreams]
-[23:39:41] [Server thread/INFO]: GChosen1 has made the advancement [Sweet Dreams]
-[23:39:58] [Server thread/INFO]: There are 3 of a max of 36 players online: ByHellRaiseR, GChosen1, junsus
-[23:40:30] [Server thread/INFO]: There are 3 of a max of 36 players online: ByHellRaiseR, GChosen1, junsus
-[23:40:34] [Server thread/INFO]: ByHellRaiseR has made the advancement [Sweet Dreams]
-[23:41:02] [Server thread/INFO]: There are 3 of a max of 36 players online: ByHellRaiseR, GChosen1, junsus
-[23:41:33] [Server thread/INFO]: There are 3 of a max of 36 players online: ByHellRaiseR, GChosen1, junsus
-[23:42:05] [Server thread/INFO]: There are 3 of a max of 36 players online: ByHellRaiseR, GChosen1, junsus
-[23:42:25] [Server thread/INFO]: ByHellRaiseR was slain by Cave Spider
-[23:42:37] [Server thread/INFO]: There are 3 of a max of 36 players online: GChosen1, junsus, ByHellRaiseR
-[23:43:09] [Server thread/INFO]: There are 3 of a max of 36 players online: GChosen1, junsus, ByHellRaiseR
-[23:43:41] [Server thread/INFO]: There are 3 of a max of 36 players online: GChosen1, junsus, ByHellRaiseR
-[23:44:12] [Server thread/INFO]: There are 3 of a max of 36 players online: GChosen1, junsus, ByHellRaiseR
-[23:44:25] [Server thread/INFO]: ByHellRaiseR has made the advancement [Eye Spy]
-[23:44:44] [Server thread/INFO]: There are 3 of a max of 36 players online: GChosen1, junsus, ByHellRaiseR
-[23:44:45] [Server thread/INFO]: junsus has made the advancement [Eye Spy]
-[23:45:02] [Server thread/INFO]: <junsus> -425 1544
-[23:45:12] [Server thread/INFO]: GChosen1 has made the advancement [Eye Spy]
-[23:45:16] [Server thread/INFO]: There are 3 of a max of 36 players online: GChosen1, junsus, ByHellRaiseR
-[23:45:48] [Server thread/INFO]: There are 3 of a max of 36 players online: GChosen1, junsus, ByHellRaiseR
-[23:46:20] [Server thread/INFO]: There are 3 of a max of 36 players online: GChosen1, junsus, ByHellRaiseR
-[23:46:21] [Server thread/INFO]: <junsus> -425 23 -1544
-[23:46:42] [Server thread/INFO]: Saving is already turned on
-[23:46:42] [Server thread/INFO]: Saving the game (this may take a moment!)
-[23:46:42] [Server thread/INFO]: Saved the game
-[23:46:51] [Server thread/INFO]: There are 3 of a max of 36 players online: GChosen1, junsus, ByHellRaiseR
-[23:47:02] [Server thread/INFO]: ByHellRaiseR has made the advancement [Isn't It Iron Pick]
-[23:47:23] [Server thread/INFO]: There are 3 of a max of 36 players online: GChosen1, junsus, ByHellRaiseR
-[23:47:52] [Server thread/INFO]: ByHellRaiseR has made the advancement [Suit Up]
-[23:47:55] [Server thread/INFO]: There are 3 of a max of 36 players online: GChosen1, junsus, ByHellRaiseR
-[23:48:27] [Server thread/INFO]: There are 3 of a max of 36 players online: GChosen1, junsus, ByHellRaiseR
-[23:48:59] [Server thread/INFO]: There are 3 of a max of 36 players online: GChosen1, junsus, ByHellRaiseR
-[23:49:13] [Server thread/INFO]: GChosen1 has made the advancement [Not Today, Thank You]
-[23:49:30] [Server thread/INFO]: There are 3 of a max of 36 players online: GChosen1, junsus, ByHellRaiseR
-[23:49:49] [Server thread/INFO]: ByHellRaiseR was slain by Slime
-[23:50:02] [Server thread/INFO]: There are 3 of a max of 36 players online: GChosen1, junsus, ByHellRaiseR
-[23:50:03] [Server thread/INFO]: ByHellRaiseR was slain by Zombie
-[23:50:22] [Server thread/INFO]: GChosen1 was slain by Zombie
-[23:50:34] [Server thread/INFO]: There are 3 of a max of 36 players online: junsus, ByHellRaiseR, GChosen1
-[23:51:06] [Server thread/INFO]: There are 3 of a max of 36 players online: junsus, ByHellRaiseR, GChosen1
-[23:51:07] [Server thread/INFO]: ByHellRaiseR was slain by Silverfish
-[23:51:27] [Server thread/INFO]: [junsus: Gave 3 [Eye of Ender] to junsus]
-[23:51:38] [Server thread/INFO]: There are 3 of a max of 36 players online: junsus, GChosen1, ByHellRaiseR
-[23:51:50] [Server thread/INFO]: ByHellRaiseR has made the advancement [The End?]
-[23:51:50] [Server thread/WARN]: Entity ze['ByHellRaiseR'/182, l='ServerLevel[wr_091220_4]', x=-428.59, y=24.00, z=-1537.46] left loaded chunk area
-[23:51:52] [Server thread/WARN]: ByHellRaiseR moved too quickly! 528.5899687335104,25.0,1537.459215707336
-[23:51:53] [Server thread/INFO]: GChosen1 has made the advancement [The End?]
-[23:51:53] [Server thread/WARN]: GChosen1 moved too quickly! 529.4697929798751,23.23363200604248,1538.8868414816993
-[23:51:53] [Server thread/INFO]: Scanning for legacy world dragon fight...
-[23:51:53] [Server thread/INFO]: Found that the dragon has not yet been killed in this world.
-[23:52:05] [Server thread/INFO]: [GChosen1: Set own game mode to Creative Mode]
-[23:52:06] [Server thread/INFO]: junsus has made the advancement [The End?]
-[23:52:07] [Server thread/WARN]: junsus moved too quickly! 528.6885967442115,22.945106652967926,1538.9640123830438
-[23:52:09] [Server thread/INFO]: There are 3 of a max of 36 players online: junsus, GChosen1, ByHellRaiseR
-[23:52:10] [Server thread/INFO]: [ByHellRaiseR: Teleported ByHellRaiseR to GChosen1]
-[23:52:14] [Server thread/INFO]: [GChosen1: Set own game mode to Survival Mode]
-[23:52:16] [Server thread/INFO]: [junsus: Teleported junsus to GChosen1]
-[23:52:41] [Server thread/INFO]: There are 3 of a max of 36 players online: junsus, GChosen1, ByHellRaiseR
-[23:52:56] [Server thread/INFO]: GChosen1 has made the advancement [Take Aim]
-[23:53:13] [Server thread/INFO]: There are 3 of a max of 36 players online: junsus, GChosen1, ByHellRaiseR
-[23:53:27] [Server thread/INFO]: junsus has made the advancement [Take Aim]
-[23:53:33] [Server thread/INFO]: ByHellRaiseR has made the advancement [Take Aim]
-[23:53:45] [Server thread/INFO]: There are 3 of a max of 36 players online: junsus, GChosen1, ByHellRaiseR
-[23:54:17] [Server thread/INFO]: There are 3 of a max of 36 players online: junsus, GChosen1, ByHellRaiseR
-[23:54:48] [Server thread/INFO]: GChosen1 was slain by Ender Dragon
-[23:54:48] [Server thread/INFO]: There are 3 of a max of 36 players online: junsus, GChosen1, ByHellRaiseR
-[23:54:53] [Server thread/INFO]: ByHellRaiseR has made the advancement [Who is Cutting Onions?]
-[23:54:53] [Server thread/WARN]: GChosen1 moved too quickly! 529.5792270305915,23.07840000152588,1538.6636852788417
-[23:54:57] [Server thread/INFO]: [GChosen1: Set own game mode to Creative Mode]
-[23:55:06] [Server thread/INFO]: [GChosen1: Set own game mode to Survival Mode]
-[23:55:20] [Server thread/INFO]: There are 3 of a max of 36 players online: junsus, ByHellRaiseR, GChosen1
-[23:55:27] [Server thread/INFO]: ByHellRaiseR was slain by Enderman
-[23:55:31] [Server thread/INFO]: [ByHellRaiseR: Teleported ByHellRaiseR to junsus]
-[23:55:40] [Server thread/INFO]: junsus was killed by [Intentional Game Design]
-[23:55:41] [Server thread/FATAL]: Error executing task on Server
-java.lang.NullPointerException: null
-	at yv.b(SourceFile:202) ~[minecraft_server.1.16.1.jar:?]
-	at yp.a(SourceFile:939) ~[minecraft_server.1.16.1.jar:?]
-	at zb.a(SourceFile:467) ~[minecraft_server.1.16.1.jar:?]
-	at zv.a(SourceFile:867) ~[minecraft_server.1.16.1.jar:?]
-	at rs.a(SourceFile:122) ~[minecraft_server.1.16.1.jar:?]
-	at rs$a.a(SourceFile:56) ~[minecraft_server.1.16.1.jar:?]
-	at nk.a(SourceFile:21) ~[minecraft_server.1.16.1.jar:?]
-	at uy.run(SourceFile:18) ~[minecraft_server.1.16.1.jar:?]
-	at amn.c(SourceFile:144) ~[minecraft_server.1.16.1.jar:?]
-	at amr.c(SourceFile:23) ~[minecraft_server.1.16.1.jar:?]
-	at net.minecraft.server.MinecraftServer.b(SourceFile:763) ~[minecraft_server.1.16.1.jar:?]
-	at net.minecraft.server.MinecraftServer.c(SourceFile:154) ~[minecraft_server.1.16.1.jar:?]
-	at amn.x(SourceFile:118) ~[minecraft_server.1.16.1.jar:?]
-	at net.minecraft.server.MinecraftServer.aZ(SourceFile:745) ~[minecraft_server.1.16.1.jar:?]
-	at net.minecraft.server.MinecraftServer.x(SourceFile:739) ~[minecraft_server.1.16.1.jar:?]
-	at amn.bj(SourceFile:103) ~[minecraft_server.1.16.1.jar:?]
-	at net.minecraft.server.MinecraftServer.w(SourceFile:723) ~[minecraft_server.1.16.1.jar:?]
-	at net.minecraft.server.MinecraftServer.v(SourceFile:676) ~[minecraft_server.1.16.1.jar:?]
-	at net.minecraft.server.MinecraftServer.a(SourceFile:256) ~[minecraft_server.1.16.1.jar:?]
-	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_242]
-[23:55:41] [Server thread/WARN]: junsus moved wrongly!
-[23:55:52] [Server thread/INFO]: There are 3 of a max of 36 players online: GChosen1, ByHellRaiseR, junsus
-[23:56:05] [Server thread/INFO]: junsus fell out of the world
-[23:56:05] [Server thread/INFO]: GChosen1 fell out of the world
-[23:56:05] [Server thread/INFO]: ByHellRaiseR fell out of the world
-[23:56:05] [Server thread/INFO]: [junsus: Killed 3 entities]
-[23:56:24] [Server thread/INFO]: There are 3 of a max of 36 players online: junsus, ByHellRaiseR, GChosen1
-[23:56:43] [Server thread/INFO]: Saving is already turned on
-[23:56:43] [Server thread/INFO]: Saving the game (this may take a moment!)
-[23:56:44] [Server thread/INFO]: Saved the game
-[23:56:56] [Server thread/INFO]: There are 3 of a max of 36 players online: junsus, ByHellRaiseR, GChosen1
-[23:57:27] [Server thread/INFO]: There are 3 of a max of 36 players online: junsus, ByHellRaiseR, GChosen1
-[23:57:59] [Server thread/INFO]: There are 3 of a max of 36 players online: junsus, ByHellRaiseR, GChosen1
-[23:58:03] [Server thread/INFO]: Saving the game (this may take a moment!)
-[23:58:03] [Server thread/INFO]: Saved the game
-[23:58:03] [Server thread/INFO]: Stopping the server
-[23:58:03] [Server thread/INFO]: Stopping server
-[23:58:03] [Server thread/INFO]: Saving players
-[23:58:03] [Server thread/INFO]: junsus lost connection: Server closed
-[23:58:03] [Server thread/INFO]: junsus left the game
-[23:58:03] [Server thread/INFO]: GChosen1 lost connection: Server closed
-[23:58:03] [Server thread/INFO]: GChosen1 left the game
-[23:58:03] [Server thread/INFO]: Saving worlds
-[23:58:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[wr_091220_4]'/minecraft:overworld
-[23:58:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (wr_091220_4): All chunks are saved
-[23:58:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[wr_091220_4]'/minecraft:the_nether
-[23:58:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[23:58:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[wr_091220_4]'/minecraft:the_end
-[23:58:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[23:58:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (wr_091220_4): All chunks are saved
-[23:58:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[23:58:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:41:00] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
+[22:41:01] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[22:41:01] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[22:41:01] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[22:41:01] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[22:41:01] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[22:41:01] [main/INFO]: Reloading ResourceManager: Default
+[22:41:02] [Worker-Main-12/INFO]: Loaded 7 recipes
+[22:41:02] [Worker-Main-12/INFO]: Loaded 927 advancements
+[22:41:03] [Server thread/INFO]: Starting minecraft server version 1.16.1
+[22:41:03] [Server thread/INFO]: Loading properties
+[22:41:03] [Server thread/INFO]: Default game type: SURVIVAL
+[22:41:03] [Server thread/INFO]: Generating keypair
+[22:41:03] [Server thread/INFO]: Starting Minecraft server on 147.135.97.128:25566
+[22:41:04] [Server thread/INFO]: Using epoll channel type
+[22:41:04] [Server thread/INFO]: Preparing level "wr_091820_19"
+[22:41:09] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[22:41:09] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[22:41:10] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[22:41:10] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[22:41:10] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[22:41:11] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[22:41:11] [Worker-Main-9/INFO]: Preparing spawn area: 1%
+[22:41:12] [User Authenticator #1/INFO]: UUID of player ByHellRaiseR is 3e12019a-951e-4488-83be-f089e542c616
+[22:41:12] [Worker-Main-14/INFO]: Preparing spawn area: 2%
+[22:41:12] [Worker-Main-9/INFO]: Preparing spawn area: 4%
+[22:41:13] [Worker-Main-14/INFO]: Preparing spawn area: 4%
+[22:41:13] [Worker-Main-14/INFO]: Preparing spawn area: 4%
+[22:41:14] [Worker-Main-12/INFO]: Preparing spawn area: 11%
+[22:41:14] [Worker-Main-9/INFO]: Preparing spawn area: 11%
+[22:41:15] [Worker-Main-11/INFO]: Preparing spawn area: 22%
+[22:41:15] [Worker-Main-8/INFO]: Preparing spawn area: 22%
+[22:41:16] [Worker-Main-14/INFO]: Preparing spawn area: 22%
+[22:41:16] [Worker-Main-11/INFO]: Preparing spawn area: 22%
+[22:41:17] [Worker-Main-9/INFO]: Preparing spawn area: 42%
+[22:41:17] [Worker-Main-14/INFO]: Preparing spawn area: 42%
+[22:41:18] [Worker-Main-8/INFO]: Preparing spawn area: 42%
+[22:41:18] [Worker-Main-13/INFO]: Preparing spawn area: 58%
+[22:41:19] [Worker-Main-9/INFO]: Preparing spawn area: 66%
+[22:41:19] [Worker-Main-10/INFO]: Preparing spawn area: 72%
+[22:41:20] [Worker-Main-10/INFO]: Preparing spawn area: 81%
+[22:41:20] [Worker-Main-11/INFO]: Preparing spawn area: 89%
+[22:41:21] [Worker-Main-9/INFO]: Preparing spawn area: 95%
+[22:41:21] [Server thread/INFO]: Time elapsed: 12331 ms
+[22:41:21] [Server thread/INFO]: Done (17.467s)! For help, type "help"
+[22:41:21] [Server thread/INFO]: ByHellRaiseR[/73.223.250.248:58810] logged in with entity id 297 at (-249.5, 68.0, 208.5)
+[22:41:21] [Server thread/INFO]: ByHellRaiseR joined the game
+[22:41:26] [Server thread/INFO]: [ByHellRaiseR: Set the time to 1000]
+[22:41:35] [User Authenticator #2/INFO]: UUID of player junsus is 00cefaab-ee76-49ca-91ed-3df21f8913f3
+[22:41:35] [Server thread/INFO]: junsus[/73.162.139.224:50471] logged in with entity id 470 at (-250.5, 68.0, 219.5)
+[22:41:35] [Server thread/INFO]: junsus joined the game
+[22:41:35] [User Authenticator #3/INFO]: UUID of player GChosen1 is 4c23bad0-4ded-4cd6-b870-58ccb674cbb8
+[22:41:35] [Server thread/INFO]: GChosen1[/24.5.33.60:49879] logged in with entity id 479 at (-248.5, 67.0, 204.5)
+[22:41:35] [Server thread/INFO]: GChosen1 joined the game
+[22:41:53] [Server thread/INFO]: There are 3 of a max of 36 players online: ByHellRaiseR, junsus, GChosen1
+[22:42:11] [Server thread/INFO]: ByHellRaiseR has made the advancement [Stone Age]
+[22:42:18] [Server thread/INFO]: junsus has made the advancement [Stone Age]
+[22:42:21] [Server thread/INFO]: ByHellRaiseR has made the advancement [Getting an Upgrade]
+[22:42:25] [Server thread/INFO]: There are 3 of a max of 36 players online: ByHellRaiseR, junsus, GChosen1
+[22:42:28] [Server thread/INFO]: junsus has made the advancement [Getting an Upgrade]
+[22:42:29] [Server thread/INFO]: GChosen1 has made the advancement [Stone Age]
+[22:42:54] [Server thread/INFO]: GChosen1 has made the advancement [Getting an Upgrade]
+[22:42:57] [Server thread/INFO]: There are 3 of a max of 36 players online: ByHellRaiseR, junsus, GChosen1
+[22:43:24] [Server thread/INFO]: ByHellRaiseR has made the advancement [Monster Hunter]
+[22:43:28] [Server thread/INFO]: There are 3 of a max of 36 players online: ByHellRaiseR, junsus, GChosen1
+[22:43:50] [Server thread/INFO]: ByHellRaiseR has made the advancement [Acquire Hardware]
+[22:44:00] [Server thread/INFO]: There are 3 of a max of 36 players online: ByHellRaiseR, junsus, GChosen1
+[22:44:32] [Server thread/INFO]: There are 3 of a max of 36 players online: ByHellRaiseR, junsus, GChosen1
+[22:45:04] [Server thread/INFO]: There are 3 of a max of 36 players online: ByHellRaiseR, junsus, GChosen1
+[22:45:36] [Server thread/INFO]: There are 3 of a max of 36 players online: ByHellRaiseR, junsus, GChosen1
+[22:45:43] [Server thread/INFO]: <ByHellRaiseR> lava -349 427
+[22:46:07] [Server thread/INFO]: There are 3 of a max of 36 players online: ByHellRaiseR, junsus, GChosen1
+[22:46:23] [Server thread/WARN]: GChosen1 moved too quickly! 9.42143112443847,1.2491870787446828,-3.575328625272732
+[22:46:23] [Server thread/WARN]: junsus moved too quickly! -3.898547486922098,-1.8593697489002778,-9.337738932769923
+[22:46:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[22:46:23] [Server thread/WARN]: ByHellRaiseR moved wrongly!
+[22:46:39] [Server thread/INFO]: There are 3 of a max of 36 players online: ByHellRaiseR, junsus, GChosen1
+[22:47:11] [Server thread/INFO]: There are 3 of a max of 36 players online: ByHellRaiseR, junsus, GChosen1
+[22:47:43] [Server thread/INFO]: There are 3 of a max of 36 players online: ByHellRaiseR, junsus, GChosen1
+[22:48:04] [Server thread/INFO]: junsus has made the advancement [Acquire Hardware]
+[22:48:15] [Server thread/INFO]: There are 3 of a max of 36 players online: ByHellRaiseR, junsus, GChosen1
+[22:48:43] [Server thread/INFO]: <junsus> -400 100
+[22:48:46] [Server thread/INFO]: There are 3 of a max of 36 players online: ByHellRaiseR, junsus, GChosen1
+[22:49:18] [Server thread/INFO]: There are 3 of a max of 36 players online: ByHellRaiseR, junsus, GChosen1
+[22:49:19] [Server thread/INFO]: <junsus> ^village
+[22:49:50] [Server thread/INFO]: There are 3 of a max of 36 players online: ByHellRaiseR, junsus, GChosen1
+[22:49:53] [Server thread/INFO]: <ByHellRaiseR> w
+[22:50:22] [Server thread/INFO]: There are 3 of a max of 36 players online: ByHellRaiseR, junsus, GChosen1
+[22:50:36] [Server thread/INFO]: GChosen1 has made the advancement [What a Deal!]
+[22:50:54] [Server thread/INFO]: There are 3 of a max of 36 players online: ByHellRaiseR, junsus, GChosen1
+[22:50:59] [Server thread/INFO]: Saving is already turned on
+[22:50:59] [Server thread/INFO]: Saving the game (this may take a moment!)
+[22:51:01] [Server thread/INFO]: Saved the game
+[22:51:01] [Server thread/WARN]: junsus moved too quickly! 9.581648659151483,0.20326439933128881,-3.66847147815281
+[22:51:09] [Server thread/INFO]: junsus has made the advancement [Sweet Dreams]
+[22:51:22] [Server thread/INFO]: GChosen1 has made the advancement [Sweet Dreams]
+[22:51:25] [Server thread/INFO]: There are 3 of a max of 36 players online: ByHellRaiseR, junsus, GChosen1
+[22:51:26] [Server thread/INFO]: ByHellRaiseR has made the advancement [Sweet Dreams]
+[22:51:27] [Server thread/INFO]: <ByHellRaiseR> zzzz
+[22:51:29] [Server thread/INFO]: <junsus> zz
+[22:51:31] [Server thread/INFO]: <GChosen1> z
+[22:51:57] [Server thread/INFO]: There are 3 of a max of 36 players online: ByHellRaiseR, junsus, GChosen1
+[22:52:03] [Server thread/INFO]: ByHellRaiseR has made the advancement [Hot Stuff]
+[22:52:29] [Server thread/INFO]: There are 3 of a max of 36 players online: ByHellRaiseR, junsus, GChosen1
+[22:52:31] [Server thread/INFO]: junsus has made the advancement [Isn't It Iron Pick]
+[22:53:01] [Server thread/INFO]: There are 3 of a max of 36 players online: ByHellRaiseR, junsus, GChosen1
+[22:53:33] [Server thread/INFO]: There are 3 of a max of 36 players online: ByHellRaiseR, junsus, GChosen1
+[22:53:38] [Server thread/INFO]: ByHellRaiseR has made the advancement [We Need to Go Deeper]
+[22:53:53] [Server thread/INFO]: junsus has made the advancement [We Need to Go Deeper]
+[22:54:04] [Server thread/INFO]: There are 3 of a max of 36 players online: ByHellRaiseR, junsus, GChosen1
+[22:54:09] [Server thread/INFO]: junsus has made the advancement [Monster Hunter]
+[22:54:36] [Server thread/INFO]: There are 3 of a max of 36 players online: ByHellRaiseR, junsus, GChosen1
+[22:55:06] [Server thread/INFO]: <ByHellRaiseR> fortress 83 54 103
+[22:55:08] [Server thread/INFO]: There are 3 of a max of 36 players online: ByHellRaiseR, junsus, GChosen1
+[22:55:40] [Server thread/INFO]: There are 3 of a max of 36 players online: ByHellRaiseR, junsus, GChosen1
+[22:55:56] [Server thread/INFO]: ByHellRaiseR has made the advancement [A Terrible Fortress]
+[22:56:12] [Server thread/INFO]: There are 3 of a max of 36 players online: ByHellRaiseR, junsus, GChosen1
+[22:56:43] [Server thread/INFO]: There are 3 of a max of 36 players online: ByHellRaiseR, junsus, GChosen1
+[22:56:58] [Server thread/INFO]: ByHellRaiseR has made the advancement [Into Fire]
+[22:57:15] [Server thread/INFO]: There are 3 of a max of 36 players online: ByHellRaiseR, junsus, GChosen1
+[22:57:47] [Server thread/INFO]: There are 3 of a max of 36 players online: ByHellRaiseR, junsus, GChosen1
+[22:58:19] [Server thread/INFO]: There are 3 of a max of 36 players online: ByHellRaiseR, junsus, GChosen1
+[22:58:51] [Server thread/INFO]: There are 3 of a max of 36 players online: ByHellRaiseR, junsus, GChosen1
+[22:59:22] [Server thread/INFO]: There are 3 of a max of 36 players online: ByHellRaiseR, junsus, GChosen1
+[22:59:36] [Server thread/INFO]: ByHellRaiseR has completed the challenge [Return to Sender]
+[22:59:39] [Server thread/WARN]: junsus moved too quickly! 9.982047490339959,0.8841593618424213,0.3079242636600412
+[22:59:54] [Server thread/INFO]: There are 3 of a max of 36 players online: ByHellRaiseR, junsus, GChosen1
+[23:00:26] [Server thread/INFO]: There are 3 of a max of 36 players online: ByHellRaiseR, junsus, GChosen1
+[23:00:29] [Server thread/INFO]: junsus has made the advancement [Oh Shiny]
+[23:00:43] [Server thread/INFO]: junsus has made the advancement [Ice Bucket Challenge]
+[23:00:49] [Server thread/INFO]: ByHellRaiseR has made the advancement [Isn't It Iron Pick]
+[23:00:58] [Server thread/INFO]: There are 3 of a max of 36 players online: ByHellRaiseR, junsus, GChosen1
+[23:01:01] [Server thread/INFO]: Saving is already turned on
+[23:01:01] [Server thread/INFO]: Saving the game (this may take a moment!)
+[23:01:02] [Server thread/INFO]: Saved the game
+[23:01:30] [Server thread/INFO]: There are 3 of a max of 36 players online: ByHellRaiseR, junsus, GChosen1
+[23:02:01] [Server thread/INFO]: There are 3 of a max of 36 players online: ByHellRaiseR, junsus, GChosen1
+[23:02:18] [Server thread/INFO]: ByHellRaiseR has made the advancement [Oh Shiny]
+[23:02:33] [Server thread/INFO]: There are 3 of a max of 36 players online: ByHellRaiseR, junsus, GChosen1
+[23:02:37] [Server thread/INFO]: junsus was slain by Zombified Piglin
+[23:02:51] [Server thread/INFO]: ByHellRaiseR has made the advancement [Not Today, Thank You]
+[23:03:01] [Server thread/INFO]: ByHellRaiseR has made the advancement [Who is Cutting Onions?]
+[23:03:05] [Server thread/INFO]: There are 3 of a max of 36 players online: ByHellRaiseR, GChosen1, junsus
+[23:03:14] [Server thread/INFO]: <junsus> zz
+[23:03:37] [Server thread/INFO]: There are 3 of a max of 36 players online: ByHellRaiseR, GChosen1, junsus
+[23:04:09] [Server thread/INFO]: There are 3 of a max of 36 players online: ByHellRaiseR, GChosen1, junsus
+[23:04:17] [Server thread/INFO]: GChosen1 has made the advancement [Monster Hunter]
+[23:04:24] [Server thread/INFO]: ByHellRaiseR has made the advancement [Ice Bucket Challenge]
+[23:04:41] [Server thread/INFO]: There are 3 of a max of 36 players online: ByHellRaiseR, GChosen1, junsus
+[23:05:12] [Server thread/INFO]: There are 3 of a max of 36 players online: ByHellRaiseR, GChosen1, junsus
+[23:05:27] [Server thread/INFO]: junsus has made the advancement [Into Fire]
+[23:05:44] [Server thread/INFO]: There are 3 of a max of 36 players online: ByHellRaiseR, GChosen1, junsus
+[23:06:16] [Server thread/INFO]: There are 3 of a max of 36 players online: ByHellRaiseR, GChosen1, junsus
+[23:06:48] [Server thread/INFO]: There are 3 of a max of 36 players online: ByHellRaiseR, GChosen1, junsus
+[23:07:20] [Server thread/INFO]: There are 3 of a max of 36 players online: ByHellRaiseR, GChosen1, junsus
+[23:07:51] [Server thread/INFO]: There are 3 of a max of 36 players online: ByHellRaiseR, GChosen1, junsus
+[23:08:23] [Server thread/INFO]: There are 3 of a max of 36 players online: ByHellRaiseR, GChosen1, junsus
+[23:08:55] [Server thread/INFO]: There are 3 of a max of 36 players online: ByHellRaiseR, GChosen1, junsus
+[23:09:27] [Server thread/INFO]: There are 3 of a max of 36 players online: ByHellRaiseR, GChosen1, junsus
+[23:09:59] [Server thread/INFO]: There are 3 of a max of 36 players online: ByHellRaiseR, GChosen1, junsus
+[23:10:07] [Server thread/INFO]: GChosen1 has made the advancement [Best Friends Forever]
+[23:10:30] [Server thread/INFO]: There are 3 of a max of 36 players online: ByHellRaiseR, GChosen1, junsus
+[23:11:02] [Server thread/INFO]: There are 3 of a max of 36 players online: ByHellRaiseR, GChosen1, junsus
+[23:11:03] [Server thread/INFO]: Saving is already turned on
+[23:11:03] [Server thread/INFO]: Saving the game (this may take a moment!)
+[23:11:05] [Server thread/INFO]: Saved the game
+[23:11:05] [Server thread/WARN]: Horse (vehicle of GChosen1) moved too quickly! 1.6464430537903354,6.0,7.924149457414501
+[23:11:05] [Server thread/WARN]: Horse (vehicle of GChosen1) moved too quickly! 1.6584155461539467,7.0,8.306437525994966
+[23:11:05] [Server thread/WARN]: ByHellRaiseR moved too quickly! 0.12563747571755357,-1.757002463247801,9.98513602405842
+[23:11:05] [Server thread/WARN]: Horse (vehicle of GChosen1) moved too quickly! 1.6726210506121788,7.0,8.68888545883624
+[23:11:05] [Server thread/WARN]: Horse (vehicle of GChosen1) moved too quickly! 1.6880213953207885,8.0,9.071418931856215
+[23:11:05] [Server thread/WARN]: Horse (vehicle of GChosen1) moved too quickly! 1.7040610752247858,8.0,9.453998175720244
+[23:11:05] [Server thread/WARN]: Horse (vehicle of GChosen1) moved too quickly! 1.7185834310764676,8.0,9.836673700007395
+[23:11:05] [Server thread/WARN]: Horse (vehicle of GChosen1) moved too quickly! 1.7299730015098476,8.0,10.219463064191359
+[23:11:05] [Server thread/WARN]: Horse (vehicle of GChosen1) moved too quickly! 1.7373476986274454,8.0,10.60234551119288
+[23:11:05] [Server thread/WARN]: Horse (vehicle of GChosen1) moved too quickly! 1.7402523853709226,8.0,10.985279325130932
+[23:11:05] [Server thread/WARN]: Horse (vehicle of GChosen1) moved too quickly! 1.7382721111423507,8.0,11.368232653793825
+[23:11:05] [Server thread/WARN]: Horse (vehicle of GChosen1) moved too quickly! 1.735830937189121,8.0,11.751190703748762
+[23:11:05] [Server thread/WARN]: Horse (vehicle of GChosen1) moved too quickly! 1.7333897632358912,9.0,12.134151279972912
+[23:11:05] [Server thread/WARN]: Horse (vehicle of GChosen1) moved too quickly! 1.7309485892826615,9.0,12.517113207953344
+[23:11:05] [Server thread/WARN]: Horse (vehicle of GChosen1) moved too quickly! 1.7275685993733987,9.0,12.900060512186997
+[23:11:05] [Server thread/WARN]: Horse (vehicle of GChosen1) moved too quickly! 1.7185927002643666,9.0,13.282805701780603
+[23:11:05] [Server thread/WARN]: Horse (vehicle of GChosen1) moved too quickly! 1.6757425087724869,9.0,13.661556799976779
+[23:11:05] [Server thread/WARN]: Horse (vehicle of GChosen1) moved too quickly! 1.5937111221301166,9.0,14.032188140959192
+[23:11:05] [Server thread/WARN]: Horse (vehicle of GChosen1) moved too quickly! 1.48939598609536,9.0,14.398004925665646
+[23:11:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2179ms or 43 ticks behind
+[23:11:05] [Server thread/WARN]: Horse (vehicle of GChosen1) moved wrongly! 2.761245537300738
+[23:11:34] [Server thread/INFO]: There are 3 of a max of 36 players online: ByHellRaiseR, GChosen1, junsus
+[23:12:06] [Server thread/INFO]: There are 3 of a max of 36 players online: ByHellRaiseR, GChosen1, junsus
+[23:12:38] [Server thread/INFO]: There are 3 of a max of 36 players online: ByHellRaiseR, GChosen1, junsus
+[23:13:09] [Server thread/INFO]: There are 3 of a max of 36 players online: ByHellRaiseR, GChosen1, junsus
+[23:13:41] [Server thread/INFO]: There are 3 of a max of 36 players online: ByHellRaiseR, GChosen1, junsus
+[23:14:13] [Server thread/INFO]: There are 3 of a max of 36 players online: ByHellRaiseR, GChosen1, junsus
+[23:14:45] [Server thread/INFO]: There are 3 of a max of 36 players online: ByHellRaiseR, GChosen1, junsus
+[23:15:17] [Server thread/INFO]: There are 3 of a max of 36 players online: ByHellRaiseR, GChosen1, junsus
+[23:15:20] [Server thread/INFO]: GChosen1 has made the advancement [Acquire Hardware]
+[23:15:48] [Server thread/INFO]: There are 3 of a max of 36 players online: ByHellRaiseR, GChosen1, junsus
+[23:16:20] [Server thread/INFO]: There are 3 of a max of 36 players online: ByHellRaiseR, GChosen1, junsus
+[23:16:52] [Server thread/INFO]: There are 3 of a max of 36 players online: ByHellRaiseR, GChosen1, junsus
+[23:17:24] [Server thread/INFO]: There are 3 of a max of 36 players online: ByHellRaiseR, GChosen1, junsus
+[23:17:56] [Server thread/INFO]: There are 3 of a max of 36 players online: ByHellRaiseR, GChosen1, junsus
+[23:18:05] [Server thread/INFO]: <junsus> -506 1525
+[23:18:16] [Server thread/INFO]: junsus has made the advancement [Eye Spy]
+[23:18:21] [Server thread/INFO]: ByHellRaiseR has made the advancement [Eye Spy]
+[23:18:27] [Server thread/INFO]: There are 3 of a max of 36 players online: ByHellRaiseR, GChosen1, junsus
+[23:18:38] [Server thread/INFO]: GChosen1 has made the advancement [Eye Spy]
+[23:18:59] [Server thread/INFO]: There are 3 of a max of 36 players online: ByHellRaiseR, GChosen1, junsus
+[23:19:05] [Server thread/INFO]: GChosen1 was blown up by Creeper
+[23:19:31] [Server thread/INFO]: There are 3 of a max of 36 players online: ByHellRaiseR, junsus, GChosen1
+[23:20:03] [Server thread/INFO]: There are 3 of a max of 36 players online: ByHellRaiseR, junsus, GChosen1
+[23:20:33] [Server thread/INFO]: junsus lost connection: Disconnected
+[23:20:33] [Server thread/INFO]: junsus left the game
+[23:20:35] [Server thread/INFO]: There are 2 of a max of 36 players online: ByHellRaiseR, GChosen1
+[23:20:36] [User Authenticator #4/INFO]: UUID of player junsus is 00cefaab-ee76-49ca-91ed-3df21f8913f3
+[23:20:36] [Server thread/INFO]: junsus[/73.162.139.224:50615] logged in with entity id 21808 at (-504.5, 29.0000002, 1559.5)
+[23:20:36] [Server thread/INFO]: junsus joined the game
+[23:20:46] [Server thread/INFO]: ByHellRaiseR has made the advancement [The End?]
+[23:20:47] [Server thread/WARN]: ByHellRaiseR moved too quickly! 607.6828652185217,16.945106652967937,-1563.995389695747
+[23:20:48] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[23:20:48] [Server thread/INFO]: Found that the dragon has not yet been killed in this world.
+[23:21:04] [Server thread/INFO]: Saving is already turned on
+[23:21:04] [Server thread/INFO]: Saving the game (this may take a moment!)
+[23:21:05] [Server thread/INFO]: Saved the game
+[23:21:06] [Server thread/INFO]: There are 3 of a max of 36 players online: ByHellRaiseR, GChosen1, junsus
+[23:21:13] [Server thread/INFO]: GChosen1 has made the advancement [The End?]
+[23:21:14] [Server thread/WARN]: GChosen1 moved too quickly! 607.6745067250602,17.23363200604248,-1563.5811653478795
+[23:21:26] [Server thread/INFO]: junsus has made the advancement [The End?]
+[23:21:26] [Server thread/WARN]: junsus moved too quickly! 607.9494809066937,16.94510665296793,-1563.3680982259855
+[23:21:38] [Server thread/INFO]: There are 3 of a max of 36 players online: ByHellRaiseR, GChosen1, junsus
+[23:22:10] [Server thread/INFO]: There are 3 of a max of 36 players online: ByHellRaiseR, GChosen1, junsus
+[23:22:42] [Server thread/INFO]: There are 3 of a max of 36 players online: ByHellRaiseR, GChosen1, junsus
+[23:22:44] [Server thread/INFO]: junsus has made the advancement [Take Aim]
+[23:23:14] [Server thread/INFO]: There are 3 of a max of 36 players online: ByHellRaiseR, GChosen1, junsus
+[23:23:23] [Server thread/INFO]: ByHellRaiseR was slain by Ender Dragon
+[23:23:30] [Server thread/WARN]: ByHellRaiseR moved too quickly! 607.6707978810796,17.1875,-1563.546921467726
+[23:23:42] [Server thread/INFO]: GChosen1 was slain by Ender Dragon
+[23:23:45] [Server thread/INFO]: There are 3 of a max of 36 players online: junsus, ByHellRaiseR, GChosen1
+[23:23:48] [Server thread/WARN]: GChosen1 moved too quickly! 607.4615843214794,17.23363200604248,-1563.6552801930136
+[23:24:14] [Server thread/INFO]: ByHellRaiseR has made the advancement [Take Aim]
+[23:24:17] [Server thread/INFO]: There are 3 of a max of 36 players online: junsus, ByHellRaiseR, GChosen1
+[23:24:40] [Server thread/INFO]: GChosen1 fell from a high place
+[23:24:45] [Server thread/WARN]: GChosen1 moved too quickly! 607.5210252001102,17.1875,-1563.3313140508515
+[23:24:47] [Server thread/INFO]: junsus was slain by Enderman
+[23:24:49] [Server thread/INFO]: There are 3 of a max of 36 players online: ByHellRaiseR, GChosen1, junsus
+[23:24:53] [Server thread/WARN]: junsus moved too quickly! 607.171910786608,16.945106652967937,-1564.81106765661
+[23:25:21] [Server thread/INFO]: There are 3 of a max of 36 players online: ByHellRaiseR, GChosen1, junsus
+[23:25:28] [Server thread/INFO]: junsus was slain by Enderman
+[23:25:34] [Server thread/WARN]: junsus moved too quickly! 606.6610330898084,16.94510665296793,-1564.2390353451658
+[23:25:53] [Server thread/INFO]: There are 3 of a max of 36 players online: ByHellRaiseR, GChosen1, junsus
+[23:26:01] [Server thread/INFO]: GChosen1 fell from a high place
+[23:26:05] [Server thread/WARN]: GChosen1 moved too quickly! 607.0992476503194,17.23363200604248,-1563.6302115687538
+[23:26:24] [Server thread/INFO]: There are 3 of a max of 36 players online: ByHellRaiseR, junsus, GChosen1
+[23:26:56] [Server thread/INFO]: There are 3 of a max of 36 players online: ByHellRaiseR, junsus, GChosen1
+[23:26:57] [Server thread/INFO]: GChosen1 has made the advancement [Take Aim]
+[23:27:28] [Server thread/INFO]: There are 3 of a max of 36 players online: ByHellRaiseR, junsus, GChosen1
+[23:28:00] [Server thread/INFO]: There are 3 of a max of 36 players online: ByHellRaiseR, junsus, GChosen1
+[23:28:03] [Server thread/INFO]: GChosen1 was killed by [Intentional Game Design]
+[23:28:08] [Server thread/WARN]: GChosen1 moved too quickly! 607.3492513949066,17.23363200604248,-1563.8191836924989
+[23:28:25] [Server thread/WARN]: junsus moved too quickly! 606.9832144658592,16.94510665296793,-1563.7080354197647
+[23:28:32] [Server thread/INFO]: There are 3 of a max of 36 players online: GChosen1, junsus, ByHellRaiseR
+[23:29:03] [Server thread/INFO]: There are 3 of a max of 36 players online: junsus, ByHellRaiseR, GChosen1
+[23:29:35] [Server thread/INFO]: There are 3 of a max of 36 players online: junsus, ByHellRaiseR, GChosen1
+[23:30:01] [Server thread/INFO]: junsus was slain by Enderman
+[23:30:06] [Server thread/INFO]: ByHellRaiseR was slain by junsus
+[23:30:07] [Server thread/INFO]: There are 3 of a max of 36 players online: ByHellRaiseR, GChosen1, junsus
+[23:30:16] [Server thread/INFO]: GChosen1 tried to swim in lava to escape junsus
+[23:30:26] [Server thread/INFO]: junsus tried to swim in lava
+[23:30:39] [Server thread/INFO]: There are 3 of a max of 36 players online: ByHellRaiseR, GChosen1, junsus
